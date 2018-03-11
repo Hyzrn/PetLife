@@ -1,0 +1,82 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.06.2016 19:35:09
+
+newmtl BUTTBODY
+	Ns 4.3000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4000 0.4000 0.4000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTBODY.JPG
+	map_Kd C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTBODY.JPG
+
+newmtl BUTTWIBA
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6000 0.6000 0.2000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTWIBA.JPG
+	map_Kd C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTWIBA.JPG
+
+newmtl BUTTWIFR
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6000 0.6000 0.2000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTWIFR.JPG
+	map_Kd C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTWIFR.JPG
+
+newmtl BUTTFACE
+	Ns 2.9000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6000 0.2000 0.2000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTFACE.JPG
+	map_Kd C:\Users\user\Downloads\Butterfly\Butterfly\Texture\BUTTFACE.JPG
+
+newmtl BUTTPIEZ
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl BUTTEYE
+	Ns 6.7000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1000 0.0000 0.1000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
